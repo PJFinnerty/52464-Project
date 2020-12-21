@@ -66,3 +66,13 @@ this project is about simulation – you must synthesise a data set. Some studen
 * Tolist() method for reordering columns: https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns
 
 * Solution for creating a blank column: https://www.kite.com/python/answers/how-to-create-an-empty-column-in-a-pandas-dataframe-in-python#:~:text=Use%20an%20empty%20string%20to,named%20new_column%20in%20the%20Dataframe%20.
+
+* Smoking image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLX7mH326mFsBEs3SLP3ohUZ8ikNOoMT8qw&usqp=CAU
+
+* CorporateFInanceInstitute, Poisson Dist: https://corporatefinanceinstitute.com/resources/knowledge/other/poisson-distribution/
+
+* Poisson investopedia: https://www.investopedia.com/terms/p/poisson-distribution.asp#:~:text=In%20statistics%2C%20a%20Poisson%20distribution,a%20given%20interval%20of%20time.
+
+* Poisson dist formula IMAGE: https://www.onlinemathlearning.com/image-files/poisson-distribution-formula.png
+
+* Examples of poisson on graphs IMAGE: https://www.itl.nist.gov/div898/handbook/eda/section3/gif/poipdf4.gif
