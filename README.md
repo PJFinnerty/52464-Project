@@ -3,6 +3,7 @@
 ## Peter Finnerty - Project for Programming for Data Analysis.
 
 ## Problem statement
+
 For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life.
 
 Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python.
@@ -25,54 +26,54 @@ this project is about simulation – you must synthesise a data set. Some studen
 
 ## References:
 
-* Opiod Use in Canada: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6034967/
+#### Articles
 
-* Malawi Evidence of Tobacco Companies Affecting Restrictions: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2741530/
+1. ASH Fact sheet: Tobacco and the Developing World (ASH): https://ash.org.uk/wp-content/uploads/2019/07/ASH-Factsheet_Developing-World_v3.pdf
 
-* Philip Morris smoking advertising in India (Reuters): https://www.reuters.com/investigates/special-report/pmi-india/
+2. Belluz, Julia, 'The world’s most livable city is a smoker’s paradise', Vox Austria smoking ban, url: https://www.vox.com/2019/10/31/20936017/smoking-ban-austria
 
-* Number of tobacco smokers worldwide from 2000 to 2025, by country income: https://www.statista.com/statistics/937428/tobacco-smoking-numbers-globally-country-income/#__sid=js4
+3. Chabbra, Akshita et al, 'REcent Trends of Tobacco Use in India', 2017, India url: https://www.researchgate.net/publication/333906455_Recent_trends_of_tobacco_use_in_India
 
-* ASH Fact sheet: Tobacco and the Developing World (ASH): https://ash.org.uk/wp-content/uploads/2019/07/ASH-Factsheet_Developing-World_v3.pdf
+4. Hiilamo and GLantz, 'Implementation of effective cigarette health warning labels among low and middle income countries: State capacity, path-dependency and tobacco industry activity', 2014, url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4276461/
 
-* The Conversation: https://theconversation.com/big-tobacco-goes-after-the-young-in-developing-markets-in-a-case-of-history-repeated-82043
+5. Hirschman, R, Tobacco industry in Indonesia - statistics & facts, url: https://www.statista.com/topics/5728/tobacco-industry-in-indonesia/
 
-* Cigarette consumption per year, 1970-2015: https://www.bmj.com/content/bmj/365/bmj.l2231.full.pdf
+6. Hoe, Connie, et a, 'Improving the implementation of tobacco control policies in low-and middle-income countries: a proposed framework',ure: https://gh.bmj.com/content/4/6/e002078
 
-* Tobacco industry Indonesia: https://www.statista.com/topics/5728/tobacco-industry-in-indonesia/
+7. Number of tobacco smokers worldwide from 2000 to 2025, by country income: https://www.statista.com/statistics/937428/tobacco-smoking-numbers-globally-country-income/#__sid=js4
 
-* Improving the implementation of tobacco control policies in low-and middle-income countries: a proposed framework: https://gh.bmj.com/content/4/6/e002078
+8. Otanez, Martin, 'Tobacco Companies’ Use of Developing Countries’ Economic Reliance on Tobacco to Lobby Against Global Tobacco Control: The Case of Malawi', 2009, url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2741530/
 
-* Cigarette labels: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4276461/
+9. Philip Morris smoking advertising in India (Reuters): https://www.reuters.com/investigates/special-report/pmi-india/
 
-* WHO report 2019, tobacoo controls:https://www.who.int/publications/i/item/WHO-NMH-PND-2019.5   file:///C:/Users/HP/Downloads/WHO-NMH-PND-2019.5-eng.pdf
+10. Ramstrom, Lars and Wilkmans, Tom, 'Mortality attributable to tobacco among men in Sweden and other European countries: an analysis of data in a WHO report', 2014, url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154048/
 
-* WHO info on India tobacco controls: https://www.who.int/tobacco/about/partners/bloomberg/ind/en/#:~:text=Several%20provisions%20of%20the%20law,is%20also%20restricted%20in%20India.
+11. Percentage of deaths from smoking as a share overall: Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.: http://ghdx.healthdata.org/gbd-results-tool
 
-* Percentage of deaths from smoking as a share overall: Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.: http://ghdx.healthdata.org/gbd-results-tool
+12. The Conversation, Tactics of Big Tobacco, https://theconversation.com/big-tobacco-goes-after-the-young-in-developing-markets-in-a-case-of-history-repeated-82043
 
-* India smoking controls and effect on death rates: https://www.researchgate.net/publication/333906455_Recent_trends_of_tobacco_use_in_India
+13. WHO report 2019, tobacoo controls:https://www.who.int/publications/i/item/WHO-NMH-PND-2019.5   file:///C:/Users/HP/Downloads/WHO-NMH-PND-2019.5-eng.pdf
 
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154048/
+14. WHO info on India tobacco controls: https://www.who.int/tobacco/about/partners/bloomberg/ind/en/#:~:text=Several%20provisions%20of%20the%20law,is%20also%20restricted%20in%20India.
 
-* Swedend smoking and snus: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154048/
+15. Trading Economics, Austria stats on smoking: https://tradingeconomics.com/austria/smoking-prevalence-females-percent-of-adults-wb-data.html
 
-* Solution for categorical variables dependency: https://stackoverflow.com/questions/32633977/how-to-create-categorical-variable-based-on-a-numerical-variable
+#### Solutions
 
-* Vox Austria smoking ban: https://www.vox.com/2019/10/31/20936017/smoking-ban-austria
+1. Solution for categorical variables dependency: https://stackoverflow.com/questions/32633977/how-to-create-categorical-variable-based-on-a-numerical-variable
 
-* Austria stats on smoking: https://tradingeconomics.com/austria/smoking-prevalence-females-percent-of-adults-wb-data.html
+2. Solution for to.list() method for reordering columns: https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns
 
-* Tolist() method for reordering columns: https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns
+3. Solution for creating a blank column: https://www.kite.com/python/answers/how-to-create-an-empty-column-in-a-pandas-dataframe-in-python#:~:text=Use%20an%20empty%20string%20to,named%20new_column%20in%20the%20Dataframe%20.
 
-* Solution for creating a blank column: https://www.kite.com/python/answers/how-to-create-an-empty-column-in-a-pandas-dataframe-in-python#:~:text=Use%20an%20empty%20string%20to,named%20new_column%20in%20the%20Dataframe%20.
+#### Images
 
-* Smoking image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLX7mH326mFsBEs3SLP3ohUZ8ikNOoMT8qw&usqp=CAU
+1. Smoking image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLX7mH326mFsBEs3SLP3ohUZ8ikNOoMT8qw&usqp=CAU
 
-* CorporateFInanceInstitute, Poisson Dist: https://corporatefinanceinstitute.com/resources/knowledge/other/poisson-distribution/
+2. CorporateFInanceInstitute, Poisson Dist Image: https://corporatefinanceinstitute.com/resources/knowledge/other/poisson-distribution/
 
-* Poisson investopedia: https://www.investopedia.com/terms/p/poisson-distribution.asp#:~:text=In%20statistics%2C%20a%20Poisson%20distribution,a%20given%20interval%20of%20time.
+3. Poisson image investopedia: https://www.investopedia.com/terms/p/poisson-distribution.asp#:~:text=In%20statistics%2C%20a%20Poisson%20distribution,a%20given%20interval%20of%20time.
 
-* Poisson dist formula IMAGE: https://www.onlinemathlearning.com/image-files/poisson-distribution-formula.png
+4. Poisson dist formula IMAGE: https://www.onlinemathlearning.com/image-files/poisson-distribution-formula.png
 
-* Examples of poisson on graphs IMAGE: https://www.itl.nist.gov/div898/handbook/eda/section3/gif/poipdf4.gif
+5. Examples of poisson on graphs IMAGE: https://www.itl.nist.gov/div898/handbook/eda/section3/gif/poipdf4.gif
